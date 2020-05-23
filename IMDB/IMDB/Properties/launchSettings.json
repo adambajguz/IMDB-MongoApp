@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IMDB": {
+      "commandName": "Project",
+      "commandLineArgs": "--enable-logging"
+    }
+  }
+}
